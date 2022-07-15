@@ -1,0 +1,8 @@
+.user-item {
+  margin: 0.5rem 0;
+  background-color: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.26);
+  color: rgb(0, 0, 0);
+  padding: 0.5rem 1rem;
+  border: 1px solid;
+}
