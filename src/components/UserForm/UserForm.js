@@ -50,7 +50,7 @@ const UserForm = (props) => {
           />
           <label>Age (Years)</label>
           <input
-            type="text"
+            type="number"
             value={userInput.enteredAge}
             onChange={ageInputChangeHandler}
           />
